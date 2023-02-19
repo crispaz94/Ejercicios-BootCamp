@@ -1,0 +1,15 @@
+/Users/cristian/Desktop/Ejercicios/Ejercicios Sesion 2/EjerciciosSesion2/EjerciciosSesion2/bin/Debug/net6.0/EjerciciosSesion2
+/Users/cristian/Desktop/Ejercicios/Ejercicios Sesion 2/EjerciciosSesion2/EjerciciosSesion2/bin/Debug/net6.0/EjerciciosSesion2.deps.json
+/Users/cristian/Desktop/Ejercicios/Ejercicios Sesion 2/EjerciciosSesion2/EjerciciosSesion2/bin/Debug/net6.0/EjerciciosSesion2.runtimeconfig.json
+/Users/cristian/Desktop/Ejercicios/Ejercicios Sesion 2/EjerciciosSesion2/EjerciciosSesion2/bin/Debug/net6.0/EjerciciosSesion2.dll
+/Users/cristian/Desktop/Ejercicios/Ejercicios Sesion 2/EjerciciosSesion2/EjerciciosSesion2/bin/Debug/net6.0/EjerciciosSesion2.pdb
+/Users/cristian/Desktop/Ejercicios/Ejercicios Sesion 2/EjerciciosSesion2/EjerciciosSesion2/obj/Debug/net6.0/EjerciciosSesion2.csproj.AssemblyReference.cache
+/Users/cristian/Desktop/Ejercicios/Ejercicios Sesion 2/EjerciciosSesion2/EjerciciosSesion2/obj/Debug/net6.0/EjerciciosSesion2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cristian/Desktop/Ejercicios/Ejercicios Sesion 2/EjerciciosSesion2/EjerciciosSesion2/obj/Debug/net6.0/EjerciciosSesion2.AssemblyInfoInputs.cache
+/Users/cristian/Desktop/Ejercicios/Ejercicios Sesion 2/EjerciciosSesion2/EjerciciosSesion2/obj/Debug/net6.0/EjerciciosSesion2.AssemblyInfo.cs
+/Users/cristian/Desktop/Ejercicios/Ejercicios Sesion 2/EjerciciosSesion2/EjerciciosSesion2/obj/Debug/net6.0/EjerciciosSesion2.csproj.CoreCompileInputs.cache
+/Users/cristian/Desktop/Ejercicios/Ejercicios Sesion 2/EjerciciosSesion2/EjerciciosSesion2/obj/Debug/net6.0/EjerciciosSesion2.dll
+/Users/cristian/Desktop/Ejercicios/Ejercicios Sesion 2/EjerciciosSesion2/EjerciciosSesion2/obj/Debug/net6.0/refint/EjerciciosSesion2.dll
+/Users/cristian/Desktop/Ejercicios/Ejercicios Sesion 2/EjerciciosSesion2/EjerciciosSesion2/obj/Debug/net6.0/EjerciciosSesion2.pdb
+/Users/cristian/Desktop/Ejercicios/Ejercicios Sesion 2/EjerciciosSesion2/EjerciciosSesion2/obj/Debug/net6.0/EjerciciosSesion2.genruntimeconfig.cache
+/Users/cristian/Desktop/Ejercicios/Ejercicios Sesion 2/EjerciciosSesion2/EjerciciosSesion2/obj/Debug/net6.0/ref/EjerciciosSesion2.dll
